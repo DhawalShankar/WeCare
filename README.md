@@ -31,7 +31,8 @@ chart as per the health concerns.
 basis of their requirements.
 5. Recording their skin related concerns and selling them
 the products that target the given issue.
-THE FOOT FORWARD: ALGORITHM INVOLVED
+<br>
+THE FOOT FORWARD: ALGORITHM INVOLVED<br>
 1. Start
 2. An inviting user interface is brought to display.
 3. The user inputs his details i.e. weight,height,age in
