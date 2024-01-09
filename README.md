@@ -43,11 +43,11 @@ logical formula.
 to be displayed.
 7. User is asked to input his/her skin type and skin
 concerns.
-8. The user is recommended our products and further bill is
-calculated on what all he/she purchases.
+8. The user is recommended our products.
 9.END/STOP.
+<br>
 EXPLORING THE VITAL ROLE OF C LANGUAGE IN THE
-SUCCESSFUL JOURNEY OF THIS PROJECT:
+SUCCESSFUL JOURNEY OF THIS PROJECT:<br>
 1.Conditional statements(If else,If else If,Nested if,Switch
 statements)
 2.Loops
@@ -57,7 +57,8 @@ statements)
 6.File handling
 7.Arrays(All types included)
 8.Escape sequences
-DESIGN OF THE PROJECT:
+<br>
+DESIGN OF THE PROJECT:<br>
 The project is skillfully formulated to bring under its shadow
 some of the most crucial elements of our health and
 lifestyle.Every step of the program has its root embedded into
@@ -74,15 +75,14 @@ taken to their remedial ways,the one with normal figures is
 directed to another wellness sector that deals in mental health
 and skincare.The skincare department suggests the
 ingredients to be incorporated in daily routine to gain victory
-over specific challenges that haunt our skin.
-REFERENCES
-WWW.HEALTHLINE.COM
-WWW.NCBI.NLM.NIH.GOV
-WWW.WIKIHOW.COM
-HTTPS://WWW.CALCULATOR.NET/CALORIE-CALCULATO
-R.HTML
-HTTPS://WWW.WEBMED.COM./DIET/CALORIES-CHART
-WWW.WEBMD.COM
-WWW.QUANUTRITION.COM
-AMERICAN ACADEMY OF DERMATOLOGY
+over specific challenges that haunt our skin.<br>
+REFERENCES<br>
+1.WWW.HEALTHLINE.COM
+2.WWW.NCBI.NLM.NIH.GOV
+3.WWW.WIKIHOW.COM
+4.HTTPS://WWW.CALCULATOR.NET/CALORIE-CALCULATOR.HTML
+5.HTTPS://WWW.WEBMED.COM./DIET/CALORIES-CHART
+6.WWW.WEBMD.COM
+7.WWW.QUANUTRITION.COM
+8.AMERICAN ACADEMY OF DERMATOLOGY
 */
