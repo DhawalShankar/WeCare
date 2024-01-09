@@ -57,6 +57,7 @@ statements)
 6.File handling
 7.Arrays(All types included)
 8.Escape sequences
+9. File Handling
 <br>
 DESIGN OF THE PROJECT:<br>
 The project is skillfully formulated to bring under its shadow
