@@ -1,5 +1,6 @@
-# WeCare
+# WeCare Virtual HealthCare Assistant
 This is my first Git repository.
 <br>
-Author - Dhawalanand
-
+Author - Dhawal Shukla
+<br>
+My First Semester Software Development Fundamentals Mini Project
