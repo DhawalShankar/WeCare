@@ -1,7 +1,5 @@
 # WeCare Virtual HealthCare Assistant
 This is my first Git repository.
-## My First Semester Software Development Fundamentals Mini Project
-
 ##       Documentation 
 
 ### The Source of Inspiration:
