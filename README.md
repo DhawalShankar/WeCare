@@ -76,13 +76,13 @@ directed to another wellness sector that deals in mental health
 and skincare.The skincare department suggests the
 ingredients to be incorporated in daily routine to gain victory
 over specific challenges that haunt our skin.<br>
-### REFERENCES
-1.WWW.HEALTHLINE.COM
-2.WWW.NCBI.NLM.NIH.GOV
-3.WWW.WIKIHOW.COM
-4.HTTPS://WWW.CALCULATOR.NET/CALORIE-CALCULATOR.HTML
-5.HTTPS://WWW.WEBMED.COM./DIET/CALORIES-CHART
-6.WWW.WEBMD.COM
-7.WWW.QUANUTRITION.COM
+### REFERENCES :
+1.WWW.HEALTHLINE.COM <br>
+2.WWW.NCBI.NLM.NIH.GOV <br>
+3.WWW.WIKIHOW.COM <br>
+4.HTTPS://WWW.CALCULATOR.NET/CALORIE-CALCULATOR.HTML <br>
+5.HTTPS://WWW.WEBMED.COM./DIET/CALORIES-CHART <br>
+6.WWW.WEBMD.COM <br>
+7.WWW.QUANUTRITION.COM <br>
 8.AMERICAN ACADEMY OF DERMATOLOGY
 */
