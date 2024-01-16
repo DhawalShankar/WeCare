@@ -1,7 +1,5 @@
 # WeCare Virtual HealthCare Assistant
 This is my first Git repository.
-### Author - Dhawal Shukla
-
 ## My First Semester Software Development Fundamentals Mini Project
 
 ##       Documentation 
@@ -83,4 +81,4 @@ over specific challenges that haunt our skin.<br>
 6.WWW.WEBMD.COM <br>
 7.WWW.QUANUTRITION.COM <br>
 8.AMERICAN ACADEMY OF DERMATOLOGY
-
+## Author - Dhawal Shukla
