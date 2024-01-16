@@ -1,13 +1,12 @@
 # WeCare Virtual HealthCare Assistant
 This is my first Git repository.
-<br>
-Author - Dhawal Shukla
-<br>
+### Author - Dhawal Shukla
+
 ## My First Semester Software Development Fundamentals Mini Project
 
 ##       Documentation 
 
-### THE SOURCE OF INSPIRATION:
+### The Source of Inspiration:
 With new gigantic buildings and skyscrapers giving
 attendance every other day and robbing the natural world of
 its authentic bliss , what has taken the backseat is our primary
@@ -19,8 +18,7 @@ Keeping the demonic exacerbating health issues in limelight,
 our project takes immense pride in flaunting and living by the
 saying:
 #### “ GOOD HEALTH IS A CROWN ON THE HEAD OF A WELL PERSON THAT ONLY A SICK PERSON CAN SEE.”
-THE PROJECT DEALS IN THE FOLLOWING SECTORS OF
-HEALTH DEPARTMENT:
+THE PROJECT DEALS IN THE FOLLOWING SECTORS OF HEALTH DEPARTMENT:<br>
 1. Calculating the Body Mass Index of customers based on
 the input data.<br>
 2. Classification into Fit,Overweight or Underweight
