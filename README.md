@@ -3,10 +3,11 @@ This is my first Git repository.
 <br>
 Author - Dhawal Shukla
 <br>
-My First Semester Software Development Fundamentals Mini Project
-<br>
-/*                                                                                     Documentation <br>
-THE SOURCE OF INSPIRATION:
+## My First Semester Software Development Fundamentals Mini Project
+
+##       Documentation 
+
+### THE SOURCE OF INSPIRATION:
 With new gigantic buildings and skyscrapers giving
 attendance every other day and robbing the natural world of
 its authentic bliss , what has taken the backseat is our primary
@@ -17,50 +18,47 @@ breath.
 Keeping the demonic exacerbating health issues in limelight,
 our project takes immense pride in flaunting and living by the
 saying:
-“ GOOD HEALTH IS A CROWN ON THE HEAD OF A WELL
-PERSON THAT ONLY A SICK PERSON CAN SEE.”
+### “ GOOD HEALTH IS A CROWN ON THE HEAD OF A WELL PERSON THAT ONLY A SICK PERSON CAN SEE.”
 THE PROJECT DEALS IN THE FOLLOWING SECTORS OF
 HEALTH DEPARTMENT:
 1. Calculating the Body Mass Index of customers based on
-the input data.
+the input data.<br>
 2. Classification into Fit,Overweight or Underweight
-category.
+category.<br>
 3. Suggesting the appropriate and mindfully calculated diet
-chart as per the health concerns.
+chart as per the health concerns.<br>
 4. Dishing out a wellness routine for the customers on the
-basis of their requirements.
+basis of their requirements.<br>
 5. Recording their skin related concerns and selling them
 the products that target the given issue.
 <br>
-THE FOOT FORWARD: ALGORITHM INVOLVED<br>
-1. Start
-2. An inviting user interface is brought to display.
+### THE FOOT FORWARD: ALGORITHM INVOLVED
+1. Start <br>
+2. An inviting user interface is brought to display. <br>
 3. The user inputs his details i.e. weight,height,age in
-desired units.
+desired units. <br>
 4. The categorisation is done as per the
-logical formula.
-5. Other health issues are brought into consideration.
+logical formula. <br>
+5. Other health issues are brought into consideration. <br>
 6. Bolstered with scientific backing,appropriate measures
-to be displayed.
+to be displayed. <br>
 7. User is asked to input his/her skin type and skin
-concerns.
-8. The user is recommended our products.
+concerns. <br>
+8. The user is recommended our products.<br>
 9.END/STOP.
 <br>
-EXPLORING THE VITAL ROLE OF C LANGUAGE IN THE
-SUCCESSFUL JOURNEY OF THIS PROJECT:<br>
-1.Conditional statements(If else,If else If,Nested if,Switch
-statements)
-2.Loops
-3.Arithmetic operations
-4.Logic building
-5..Color coding
-6.File handling
-7.Arrays(All types included)
-8.Escape sequences
-9. File Handling
+### EXPLORING THE VITAL ROLE OF C LANGUAGE IN THE SUCCESSFUL JOURNEY OF THIS PROJECT:
+1.Conditional statements(If else,If else If,Nested if,Switch statements) <br>
+2.Loops <br>
+3.Arithmetic operations <br>
+4.Logic building <br>
+5..Color coding <br>
+6.File handling <br>
+7.Arrays <br>
+8.Escape sequences <br>
+9. File Handling <br>
 <br>
-DESIGN OF THE PROJECT:<br>
+### DESIGN OF THE PROJECT:
 The project is skillfully formulated to bring under its shadow
 some of the most crucial elements of our health and
 lifestyle.Every step of the program has its root embedded into
@@ -78,7 +76,7 @@ directed to another wellness sector that deals in mental health
 and skincare.The skincare department suggests the
 ingredients to be incorporated in daily routine to gain victory
 over specific challenges that haunt our skin.<br>
-REFERENCES<br>
+### REFERENCES
 1.WWW.HEALTHLINE.COM
 2.WWW.NCBI.NLM.NIH.GOV
 3.WWW.WIKIHOW.COM
