@@ -31,7 +31,7 @@ chart as per the health concerns.<br>
 basis of their requirements.<br>
 5. Recording their skin related concerns and selling them
 the products that target the given issue.
-<br>
+
 ### THE FOOT FORWARD: ALGORITHM INVOLVED
 1. Start <br>
 2. An inviting user interface is brought to display. <br>
@@ -46,7 +46,7 @@ to be displayed. <br>
 concerns. <br>
 8. The user is recommended our products.<br>
 9.END/STOP.
-<br>
+
 ### EXPLORING THE VITAL ROLE OF C LANGUAGE IN THE SUCCESSFUL JOURNEY OF THIS PROJECT:
 1.Conditional statements(If else,If else If,Nested if,Switch statements) <br>
 2.Loops <br>
@@ -57,7 +57,7 @@ concerns. <br>
 7.Arrays <br>
 8.Escape sequences <br>
 9. File Handling <br>
-<br>
+
 ### DESIGN OF THE PROJECT:
 The project is skillfully formulated to bring under its shadow
 some of the most crucial elements of our health and
