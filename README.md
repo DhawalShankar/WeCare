@@ -18,7 +18,7 @@ breath.
 Keeping the demonic exacerbating health issues in limelight,
 our project takes immense pride in flaunting and living by the
 saying:
-### “ GOOD HEALTH IS A CROWN ON THE HEAD OF A WELL PERSON THAT ONLY A SICK PERSON CAN SEE.”
+#### “ GOOD HEALTH IS A CROWN ON THE HEAD OF A WELL PERSON THAT ONLY A SICK PERSON CAN SEE.”
 THE PROJECT DEALS IN THE FOLLOWING SECTORS OF
 HEALTH DEPARTMENT:
 1. Calculating the Body Mass Index of customers based on
