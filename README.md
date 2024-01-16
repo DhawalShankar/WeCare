@@ -1,6 +1,4 @@
 # WeCare Virtual HealthCare Assistant
-This is my first Git repository.
-##       Documentation 
 
 ### The Source of Inspiration:
 With new gigantic buildings and skyscrapers giving
